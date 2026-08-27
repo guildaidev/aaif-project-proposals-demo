@@ -34,7 +34,7 @@ Projects should monitor their submission and respond promptly to comments or req
 Project applications are reviewed and voted on by the **AAIF Technical Committee (TC)**.
 
 - Projects are reviewed during scheduled TC meetings.
-- The TC will classify the project as either a **Growth** or **Impact** project.
+- The TC will classify the project as either a **Growth** or **Impact** project. Applicants may optionally indicate a preferred lifecycle stage (Growth or Impact) in the proposal form; this preference is non-binding, and the AAIF Technical Committee determines the appropriate initial stage in line with the [Project Lifecycle Policy](https://github.com/aaif/project-proposals/blob/main/governance/project-lifecycle-policy.md).
 - To be accepted, a project must receive **an absolute majority vote (\>50%)** of all members of the Technical Committee, and is then referred to the Governing Board for final approval.
 
 ---
