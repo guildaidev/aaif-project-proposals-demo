@@ -74,6 +74,21 @@ body:
     validations:
       required: false
 
+  - type: dropdown
+    id: preferred-lifecycle-stage
+    attributes:
+      label: Preferred Lifecycle Stage
+      description: |
+        Optionally indicate your project's preferred lifecycle stage. This preference is
+        non-binding — the Technical Committee determines the appropriate initial stage for
+        an accepted project. See the Project Lifecycle Policy for stage definitions.
+      options:
+        - No preference
+        - Growth
+        - Impact
+    validations:
+      required: false
+
   - type: input
     attributes:
       label: GitHub Repository URL
